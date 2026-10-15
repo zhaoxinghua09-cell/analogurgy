@@ -1,7 +1,7 @@
 ---
 name: analogurgy
 description: "Use when transferring cross-domain knowledge or patterns with fidelity verification. 当需要跨域迁移知识或模式并要求保真验证时使用。"
-license: ARR
+license: apache-2.0
 type: term-registration
 namespace: lgd.terms
 version: v1.1
